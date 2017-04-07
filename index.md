@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Kshitij Aggarwal
+**Freelance Android Developer. Startup Consultant. Speaker**
 
-You can use the [editor on GitHub](https://github.com/funkyidol/funkyidol.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I hold my expertise in developing Android Apps & creating Mobile solutions and have developed more than 15 apps in the last 8+ years. I also have experience Training and Mentoring teams in and around Android and general developer/development guidelines & etiquettes. Apart from Android, my technology stack consists of Firebase & Google Cloud Platform for backend development. My detailed portfolio can be found here [http://www.stackoverflow.com/cv/funkyidol](http://www.stackoverflow.com/cv/funkyidol)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I also speak at GDG New Delhi and help building up the developer community in Delhi/NCR. I am also the creator & maintainer of [AndroidDevWorld - Open Android Development Chat Forum](https://gitter.im/funkyidol/AndroidDevWorld)
 
-### Markdown
+**Services include:**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/funkyidol/funkyidol.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Android App Development
+- Technical Consulting
+- Android team training/mentoring
+- Mobile Solution Architecture Design
+- Android App UI/UX design mentoring
